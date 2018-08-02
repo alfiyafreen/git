@@ -34,4 +34,8 @@ You should see something similar to the following:
 ```
 Going forward, all your Git commands apply to the branch.  When you push the changes to your remote Bitbucket repository, those changes apply to the repository's branch.
 
+you can delete branch -d option
+```
+git branch -d <feature_branch>
+```
 https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
