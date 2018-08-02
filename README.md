@@ -39,3 +39,4 @@ you can delete branch -d option
 git branch -d <feature_branch>
 ```
 https://confluence.atlassian.com/bitbucket/branching-a-repository-223217999.html
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
